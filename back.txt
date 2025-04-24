@@ -1,0 +1,6 @@
+#3;do;1;f2.txt;1#
+#7;hi;1;f1.txt;1#
+#7;hello;2;f1.txt;2;f2.txt;1#
+#10;know;1;f2.txt;1#
+#19;this;1;f2.txt;1#
+#20;u;1;f2.txt;1#
